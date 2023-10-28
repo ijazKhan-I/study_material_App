@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "504769136955",
+    "project_id": "sbbubcsproject-f6170",
+    "storage_bucket": "sbbubcsproject-f6170.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504769136955:android:9bd40465fee1151b690f1e",
+        "android_client_info": {
+          "package_name": "com.example.study_materials"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBOweVtQU38phtrR-R_THrV3C_PNhy6dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
